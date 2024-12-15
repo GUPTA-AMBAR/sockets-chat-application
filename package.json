@@ -1,0 +1,21 @@
+{
+  "name": "sockets-chat-application",
+  "version": "1.0.0",
+  "description": "A CHAT APPLICATION WITH THE HELP OF SOCKET.IO",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "A",
+    "SHORT",
+    "CHAT",
+    "APPLICATION"
+  ],
+  "author": "AMBAR GUPTA",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "socket.io": "^4.8.1"
+  }
+}
